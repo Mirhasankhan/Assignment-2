@@ -1,0 +1,45 @@
+.size img{
+    width: 250px;
+}
+.row img{
+width: 300px;
+height: 400px;
+
+}
+.container{
+    background-color: #FFFFF4;
+    height: 550px;
+}
+.pictures img{
+    position: relative;
+    top: 300px;
+
+}
+.buttons img{
+    width: 30px;
+    height: 30px;
+}
+
+.image-position{
+    position: absolute;
+    bottom: 100px;
+    top: 50px;
+   
+        
+}
+.nav-contain{
+    margin-left: 200px;
+}
+.box-container img{
+    height: 80px;
+    width: 80px;
+}
+.box-container{
+    margin-top: 5px;
+    padding: 10px;
+    
+    
+}
+.cart-container img{
+    width: 400px;
+}
