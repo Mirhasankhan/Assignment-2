@@ -43,3 +43,9 @@ height: 400px;
 .cart-container img{
     width: 400px;
 }
+.casual-container{
+    margin-left: 15px;
+}
+.casual-container img{
+    background-color: lightgray;
+}
